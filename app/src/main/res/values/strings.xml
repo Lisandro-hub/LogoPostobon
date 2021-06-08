@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LogoPostobon</string>
+    <string name="texto_horas">Ingrese numero de horas</string>
+    <string name="resultado">Resultado de la operacion</string>
+    <string name="texto_boton_calcular">Calcular</string>
+</resources>
